@@ -1,6 +1,7 @@
 ## 👋 Helle there! ☺
+![](https://img.shields.io/badge/Quote-Always%20believe%20yourself!%F0%9F%92%AA%20-brightgreen)
 
-## 📚 Study:
+## 📚 Study and:
 - **Diploma in IT specialise in Software Engineering**
 - **Asia Pacify University**
 
