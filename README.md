@@ -13,7 +13,7 @@
 >
 >#### Others:<br><img src="/images/languages/c-sharp.png" width=32px alt="C-Sharp">&emsp;&emsp;<img src="/images/languages/python.png" width=32px alt="Python">&emsp;&emsp;<img src="/images/languages/html.png" width=52px alt="HTML">&emsp;&emsp;<img src="/images/languages/css.png" width=32px alt="CSS">&emsp;&emsp;<img src="/images/languages/javascript.png" width=64px alt="JavaScript">&emsp;<img src="/images/languages/php.png" width=64px alt="PHP">&emsp;&emsp;<img src="/images/languages/lua.png" width=50px alt="Lua">
 
-## 🧰 These are the tools/software I have used before:
+## 🧰 These are the tools/software that I have used before:
 ><img src="/images/tools/intellij_idea.png" width=32px>&emsp;&emsp;<img src="/images/tools/github.png" width=32px>&emsp;&emsp;<img src="/images/tools/git.png" width=32px>&emsp;&emsp;<img src="/images/tools/maven.png" width=32px>&emsp;&emsp;<img src="/images/tools/mysql.png" width=32px>&emsp;&emsp;<img src="/images/tools/gradle.png" width=32px>
 
 
