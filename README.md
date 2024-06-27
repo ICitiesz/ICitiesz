@@ -5,12 +5,12 @@
 <hr>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnMmR0YWFxNHJyYWZ5a29oZTY4NXprY2ZhZXE3cHJzYmN2b3N1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" height=25> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Career)](https://git.io/typing-svg)**
-> - Currently working @ [Nexify Limited](http://www.nexify.com.hk)
+> - ***2023 ~ Present*** | **[Nexify Limited](http://www.nexify.com.hk)**
 
 <hr>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw5Nzc3OHZ6ZDJ5b3Via3loYml3bmpwd3VvYjA3cTAxbHhkMjhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZcl7sbV6LnO/giphy.webp" height=23> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=80&height=30&lines=Study)](https://git.io/typing-svg)** 
-> - **2020 ~ 2022** | **Diploma in IT specialise in Software Engineering (Asia Pacific University)**
+> - ***2020 ~ 2022*** | **Diploma in IT specialise in Software Engineering (Asia Pacific University)**
 
 <hr>
 
