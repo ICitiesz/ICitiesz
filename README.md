@@ -34,7 +34,7 @@
 
 <hr>
 
-> <img src="https://github.com/ICitiesMaxQ/ICitiesMaxQ/assets/69842262/87955de9-c87e-4e03-be06-cb098bbfbea2" height=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Quote)](https://git.io/typing-svg)** <br>
+> ## <img src="https://github.com/ICitiesMaxQ/ICitiesMaxQ/assets/69842262/87955de9-c87e-4e03-be06-cb098bbfbea2" height=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Quote)](https://git.io/typing-svg)** <br>
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+IT+Moderna&duration=2000&pause=500&color=FF9200&multiline=true&random=false&width=370&height=60&lines=...I+wanna+try+everything%2C;I+wanna+try+even+though+I+could+fail)](https://git.io/typing-svg)<br>
 > **\~Try Everything by Shakira\~**
 
