@@ -5,7 +5,7 @@
 <hr>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnMmR0YWFxNHJyYWZ5a29oZTY4NXprY2ZhZXE3cHJzYmN2b3N1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" height=25> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Career)](https://git.io/typing-svg)**
-- Currently working @ [Nexify Limited](http://www.nexify.com.hk)
+> - Currently working @ [Nexify Limited](http://www.nexify.com.hk)
 
 <hr>
 
