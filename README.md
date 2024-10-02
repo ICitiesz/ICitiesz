@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=135&text=Greetings%20everyone&fontSize=35&animation=fadeIn&fontAlign=22&fontAlignY=80)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICitiesMaxQ&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICitiesz&theme=midnight_purple)
 
 <hr>
 
@@ -34,7 +34,7 @@
 
 <hr>
 
-> ## <img src="https://github.com/ICitiesMaxQ/ICitiesMaxQ/assets/69842262/87955de9-c87e-4e03-be06-cb098bbfbea2" height=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Quote)](https://git.io/typing-svg)** <br>
+> ## <img src="https://github.com/ICitiesz/ICitiesz/assets/69842262/87955de9-c87e-4e03-be06-cb098bbfbea2" height=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Quote)](https://git.io/typing-svg)** <br>
 > *...I wanna try everything* <br>
 > *I wanna try even though I could fail* <br>
 > **\~Try Everything by Shakira\~**
