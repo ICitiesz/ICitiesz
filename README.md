@@ -5,21 +5,22 @@
 <hr>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnMmR0YWFxNHJyYWZ5a29oZTY4NXprY2ZhZXE3cHJzYmN2b3N1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" height=25> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=90&height=30&lines=Career)](https://git.io/typing-svg)**
-> - ***2023 ~ Present*** | **[Nexify Limited](http://www.nexify.com.hk)**
+> - ***2023 ~ 2026*** | **[Nexify Limited](http://www.nexify.com.hk)**
 
 <hr>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw5Nzc3OHZ6ZDJ5b3Via3loYml3bmpwd3VvYjA3cTAxbHhkMjhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZcl7sbV6LnO/giphy.webp" height=23> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=1200&pause=1000&color=81A6FF&vCenter=true&random=false&width=80&height=30&lines=Study)](https://git.io/typing-svg)** 
-> - ***2020 ~ 2022*** | **Diploma in IT specialise in Software Engineering (Asia Pacific University)**
+> - ***2020 ~ 2022*** | **Diploma in IT with a specialism in Software Engineering (Asia Pacific University)**
+> - ***2026 ~ Present*** | **Bachelor of Science (Hons) in Software Engineering (Asia Pacific University)**
 
 <hr>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhmejR4NWpvb2w3enFiNnI3MXR0OTR1cHJ3OXd3a3YzNnR3c2xsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmmfETghGOPrW/200.webp" height=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=2500&pause=1000&color=81A6FF&vCenter=true&random=false&width=320&height=30&lines=Programming+Languages)](https://git.io/typing-svg)**
 > #### **Primary**
-> ![Java](https://img.shields.io/badge/Java-%23eb8034?style=for-the-badge&logo=coffeescript&labelColor=%23000000) &emsp; ![Kotlin](https://img.shields.io/badge/Kotlin-%23a902eb?style=for-the-badge&logo=kotlin&labelColor=%23000000)
+> ![Java](https://img.shields.io/badge/Java-%23eb8034?style=for-the-badge&logo=coffeescript&labelColor=%23000000) &emsp; ![Kotlin](https://img.shields.io/badge/Kotlin-%23a902eb?style=for-the-badge&logo=kotlin&labelColor=%23000000) &emsp; ![C#](https://img.shields.io/badge/C%23-%23a902eb?style=for-the-badge&logo=Sharp&logoColor=%239179E4&labelColor=%23000000&color=%239179E4)
 >
 > #### **Secondary**
-> ![Python](https://img.shields.io/badge/Python-%23f6cc44?style=for-the-badge&logo=python&labelColor=%23000000)&emsp;![HTML](https://img.shields.io/badge/HTML-%23eb732f?style=for-the-badge&logo=html5&labelColor=%23000000)&emsp;![CSS](https://img.shields.io/badge/CSS-%23254bdd?style=for-the-badge&logo=css3&labelColor=%23000000)&emsp;![JavaScript](https://img.shields.io/badge/JavaScript-%23eaca31?style=for-the-badge&logo=javascript&labelColor=%23000000)&emsp;![PHP](https://img.shields.io/badge/PHP-%237b7fb5?style=for-the-badge&logo=php&labelColor=%23000000)&emsp;![PowerShell](https://img.shields.io/badge/PowerShell-%23256db8?style=for-the-badge&logo=powershell&labelColor=%23000000)
+> ![Python](https://img.shields.io/badge/Python-%23f6cc44?style=for-the-badge&logo=python&labelColor=%23000000)&emsp;![HTML](https://img.shields.io/badge/HTML-%23eb732f?style=for-the-badge&logo=html5&labelColor=%23000000)&emsp;![CSS](https://img.shields.io/badge/CSS-%23254bdd?style=for-the-badge&logo=css3&labelColor=%23000000)&emsp;![JavaScript](https://img.shields.io/badge/JavaScript-%23eaca31?style=for-the-badge&logo=javascript&labelColor=%23000000)&emsp;![PHP](https://img.shields.io/badge/PHP-%237b7fb5?style=for-the-badge&logo=php&labelColor=%23000000&)&emsp;![PowerShell](https://img.shields.io/badge/PowerShell-%23256db8?style=for-the-badge&logo=powershell&labelColor=%23000000)
 
 <hr>
 
@@ -29,8 +30,8 @@
 <hr>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2d2p2Mmxid2t2aDFnOHBydzEza3gxMjg1cW54cWNtOHo1ZW53dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" height=25 width=30> **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=2000&pause=1000&color=81A6FF&vCenter=true&random=false&width=290&height=30&lines=Technology+Backpack)](https://git.io/typing-svg)**
-> ![MySQL](https://img.shields.io/badge/MySQL-%23005c84?style=for-the-badge&logo=mysql&labelColor=%23000000)&emsp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236db33f?style=for-the-badge&logo=springboot&labelColor=%23000000)&emsp;
-![Git](https://img.shields.io/badge/Git-%23f05032?style=for-the-badge&logo=git&labelColor=%23000000)&emsp;![Maven](https://img.shields.io/badge/Maven-%23974676?style=for-the-badge&logo=apachemaven&labelColor=%23000000)&emsp;![Gradle](https://img.shields.io/badge/Gradle-%2329db2e?style=for-the-badge&logo=gradle&labelColor=%23000000)&emsp;![Static Badge](https://img.shields.io/badge/Figma-%23f25425?style=for-the-badge&logo=figma&labelColor=%23000000)
+> ![MySQL](https://img.shields.io/badge/MySQL-%23005c84?style=for-the-badge&logo=mysql&labelColor=%23000000)&emsp;![MariaDB](https://img.shields.io/badge/MariaDB-%23005c84?style=for-the-badge&logo=mariadb&labelColor=%23000000&color=%23003545)&emsp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236db33f?style=for-the-badge&logo=springboot&labelColor=%23000000)&emsp;
+![Git](https://img.shields.io/badge/Git-%23f05032?style=for-the-badge&logo=git&labelColor=%23000000)&emsp;![Maven](https://img.shields.io/badge/Maven-%23974676?style=for-the-badge&logo=apachemaven&labelColor=%23000000)&emsp;![Gradle](https://img.shields.io/badge/Gradle-%2329db2e?style=for-the-badge&logo=gradle&labelColor=%23000000)&emsp;![Figma](https://img.shields.io/badge/Figma-%23f25425?style=for-the-badge&logo=figma&labelColor=%23000000)&emsp;![.Net](https://img.shields.io/badge/.Net-%2329db2e?style=for-the-badge&logo=dotnet&labelColor=%23000000&color=%23512BD4)&emsp;![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-%2329db2e?style=for-the-badge&logo=dotnet&labelColor=%23000000&color=%23512BD4)
 
 <hr>
 
